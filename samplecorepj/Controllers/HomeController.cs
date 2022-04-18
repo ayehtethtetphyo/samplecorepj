@@ -12,7 +12,7 @@ namespace samplecorepj.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            return View();//view
         }
 
         public IActionResult About()
